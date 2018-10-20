@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: microgorm
+---
+testFramework: junit
+sourceLanguage: java
